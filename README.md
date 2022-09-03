@@ -24,7 +24,7 @@ I am using a public dataset from the BBC comprised of 1490 articles, each labele
 
 ## Implementation:
 
-#### 1. Jupyter Notebook: https://github.com/ujjwalkar0/News-Article-Sorting/blob/main/News%20Articles%20Sorting.ipynb
+#### 1. Jupyter Notebook: https://github.com/ujjwalkar0/News-Article-Sorting/blob/main/Notebook/News%20Articles%20Sorting.ipynb
 #### 2. Website Interface and Rest API to Use it from anywhere: https://github.com/Uncoded-AI/Website/
 #### 3. Python Module to integrate it on any python program: https://github.com/Uncoded-AI/docType
 
