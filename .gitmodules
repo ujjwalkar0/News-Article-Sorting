@@ -1,3 +1,6 @@
 [submodule "Website-API"]
 	path = Website-API
 	url = git@github.com:Uncoded-AI/Website-API.git
+[submodule "docType"]
+	path = docType
+	url = git@github.com:Uncoded-AI/docType.git
