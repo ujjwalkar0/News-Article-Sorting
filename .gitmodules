@@ -7,3 +7,6 @@
 [submodule "Website"]
 	path = Website
 	url = https://github.com/Uncoded-AI/Website
+[submodule "Churn-Analysis-of-a-Company"]
+	path = Churn-Analysis-of-a-Company
+	url = https://gitlab.com/ujjwalkar0/Churn-Analysis-of-a-Company
