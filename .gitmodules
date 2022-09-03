@@ -4,3 +4,6 @@
 [submodule "docType"]
 	path = docType
 	url = git@github.com:Uncoded-AI/docType.git
+[submodule "Website"]
+	path = Website
+	url = https://github.com/Uncoded-AI/Website
