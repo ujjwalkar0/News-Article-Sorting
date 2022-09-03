@@ -11,6 +11,17 @@ In today’s world, data is power. With News companies having terabytes of data 
 ## Solution:
 A labeled public dataset from the BBC comprised of 1490 articles is used for prediction with different algorithms. Almost every algorithm gives an accuracy of more than 90%. Complement Naive Bayes having good precision (more than 95%), recall (more than 98%), and f1-score (more than 97%) for every class, gives an accuracy of 98% we use the Complement Naive Bayes model in the test purpose.
 
+## Dataset : BBC News Classification
+
+I am using a public dataset from the BBC comprised of 1490 articles, each labeled under one of 5 categories: business, entertainment, politics, sport or tech.
+
+#### Dataset URL : https://www.kaggle.com/c/learn-ai-bbc/data
+#### Data fields :
+  * ArticleId - Article id unique # given to the record
+  * Article - text of the header and article
+  * Category - category of the article (tech, business, sport, entertainment, politics/li>
+
+
 ## Implementation:
 
 #### 1. Jupyter Notebook: https://github.com/ujjwalkar0/News-Article-Sorting/blob/main/News%20Articles%20Sorting.ipynb
